@@ -30,9 +30,13 @@ Build mini console-based applications
 Develop consistency and responsibility in project-based learning
 
 📽️ Deliverables
+
 ✔️ Code for each task
+
 ✔️ Task-wise documentation
+
 ✔️ Demo video (to be uploaded separately)
+
 ✔️ LinkedIn Post Tagging @CodSoft and using #codsoft
 
 📬 Contact
