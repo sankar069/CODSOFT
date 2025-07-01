@@ -18,6 +18,7 @@ A two-player console-based game implementation with complete logic for wins, dra
 Additional tasks such as a To-Do List Manager and an Image Processing Tool may be added based on extra project time and learning goals.
 
 🎯 Objective
+
 The goal of this internship is to:
 
 Strengthen my understanding of C++ programming fundamentals
