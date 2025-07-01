@@ -40,9 +40,14 @@ Develop consistency and responsibility in project-based learning
 ✔️ LinkedIn Post Tagging @CodSoft and using #codsoft
 
 📬 Contact
+
 🔗 LinkedIn: https://linkedin.com/in/boyina-sankar-0a481a336
+
 📧 Email: boyinasankar18@gmail.com
+
 🔖 Internship Provider: CodSoft | contact@codsoft.in
 
+
 📢 Hashtags
+
 #CodSoft #CppInternship #VirtualInternship #Cplusplus #InternshipProjects #LearningByDoing #BOYINASANKAR
