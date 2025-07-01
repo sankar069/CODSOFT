@@ -1,40 +1,37 @@
-#include <iostream>   
-#include <cstdlib>   
-#include <ctime>      
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
 
 using namespace std;
-
 int main() {
-    int secretNumber, userGuess, attempts = 0;
+    int secret_number, user_guess, attempts=0;
 
-  
     srand(static_cast<unsigned int>(time(0)));
 
-  
-    secretNumber = rand() % 100 + 1;
+    secret_number = rand() % 100 +1;
 
-   
-    cout << "👋 Hey there! Welcome to the Number Guessing Game!" << endl;
-    cout << "🔢 I'm thinking of a number between 1 and 100." << endl;
-    cout << "💡 Try to guess it. Let's see how quickly you can get it right!" << endl << endl;
+    cout << "👋 Hey there! Welcome to the Number Guessing Game!" << end1;
+    cout << "🔢 I'm thinking of a number between 1 and 100." << end1;
+    cout << "💡 Try to guess it. Let's see how quickly you can get it right!" << end1 << end1;
 
-    // Game loop
+    // Game Loop
     do {
         cout << "👉 Enter your guess: ";
-        cin >> userGuess;
+        cin >> user_guess;
         attempts++;
 
-        if (userGuess > secretNumber) {
-            cout << "😅 That's too high. Try something lower!" << endl;
-        } else if (userGuess < secretNumber) {
-            cout << "😬 That's too low. Try going a bit higher!" << endl;
+        if (user_guess > secret_number) {
+            cout << "😅 That's too high. Try something lower!" << end1;
+        } else if (user_guess < secret_number) {
+            cout << "😬 That's too low. Try going a bit higher!" << end1;
         } else {
-            cout << "🎉 Woohoo! You guessed it right in " << attempts 
-                 << (attempts > 1 ? " attempts!" : " attempt!") << endl;
-            cout << "👏 Great job! Thanks for playing with me." << endl;
+            cout << "👏 Great job! Thanks for playing with me." << end1;
         }
-
-    } while (userGuess != secretNumber);
+    } while (user_guess != secret_number);
 
     return 0;
 }
+
+
+
+
